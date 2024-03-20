@@ -19,7 +19,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 
 
 <table><tbody>
-<tr> <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;">Open Source</tr>
+<tr> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -27,13 +27,13 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_ros"> unitree_ros </a></td>
-        <td>  ROS simulation package for Unitree robots. It contains<br> the urdf files of all Unitree robots. You can obtain information <br>such as the mass inertia moment limit of the Unitree robot <br>through this package. At the same time, the unitree_controller and <br>unitree_gazebo packages allow you to quickly Build the simulation <br>verification program in the Gazebo simulator. </td>
+        <td>  ROS simulation package. It has urdf files of all Unitree series robots, <br>contain information such as  mass, inertia, moment, limit and so on.  </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square&labelColor=green"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square&labelColor=green"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_guide"> unitree_guide </a></td>
-        <td>  Open source control algorithm project for <br>"Quadruped Robot Control Algorithm--Modeling, Control and Practice" <br>published by Yushu. Through this package, you can learn the robot <br>joint motor control method, and also learn simple foot movements. <br>Type robot force control algorithm. This project is configured with <br>both simulation and real robot development environments, <br>and you can switch between the two with a simple one or <br>two commands to help users quickly verify the algorithm. </td>
+        <td>  An instance control algorithm by book <br>"Quadruped Robot Control Algorithm--Modeling, Control and Practice" <br>published by Unitree. It demonstrates the robot joint motor control <br>method, simple foot movements, and force control algorithm. <br>Both simulation and real robot development environments supports. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square&labelColor=green"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square&labelColor=green"/></td>
     </tr>
@@ -51,7 +51,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_sdk2"> unitree_sdk2 </a></td>
-        <td> An SDK package used to develop Go2, B2, and H1 robots in real environments. <br>Its functional positioning is similar to the unitree_legged_sdk package. </td>
+        <td> An SDK package used to develop Go2, B2, and H1 robots in real <br>environments. Its functional positioning is similar to the <br>unitree_legged_sdk package. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&labelColor=green"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square&labelColor=green"/></td>
     </tr>
