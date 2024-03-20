@@ -25,7 +25,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     <span style="display:inline-block; vertical-align:top;">Open Source Projects</span> 
 </div>
 
-<tr><td colspan="1" rowspan="4">
+<!-- <tr><td colspan="1" rowspan="4"> -->
 
 <table class="table table-striped table-bordered table-vcenter"/>
     <tbody>
