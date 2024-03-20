@@ -19,7 +19,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 
 
 <table><tbody>
-<tr> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></tr>
+<tr><th> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></th></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -38,13 +38,13 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square&labelColor=green"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL sim example Go2 </a></td>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL example Go2 </a></td>
         <td>  A simulation example of reinforcement learning controlling Go2 in Issac. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL sim example H1 </a></td>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL example H1 </a></td>
         <td> A simulation example of reinforcement learning controlling H1 in Issac. </sub> </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
