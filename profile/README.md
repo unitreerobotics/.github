@@ -19,7 +19,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 
 
 <table><tbody>
-<tr> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></tr>
+<tr> <td> <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"> Open Source Projects </td> </tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
@@ -28,44 +28,44 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_ros"> unitree_ros </a></td>
         <td>  ROS simulation package. It has urdf files of all Unitree series robots, <br>contain information such as  mass, inertia, moment, limit and so on.  </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_guide"> unitree_guide </a></td>
         <td>  An instance control algorithm by book <br>"Quadruped Robot Control Algorithm--Modeling, Control and Practice" <br>published by Unitree. It demonstrates the robot joint motor control <br>method, simple foot movements, and force control algorithm. <br>Both simulation and real robot development environments supports. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL example Go2 </a></td>
         <td>  A simulation example of reinforcement learning controlling Go2 in Issac. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL example H1 </a></td>
         <td> A simulation example of reinforcement learning controlling H1 in Issac. </sub> </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_sdk2"> unitree_sdk2 </a></td>
         <td> An SDK package used to develop Go2, B2, and H1 robots in real <br>environments. Its functional positioning is similar to the <br>unitree_legged_sdk package. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_ros2"> unitree_ros2 </a></td>
         <td> Develop Go2 and B2 robots in the ros2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/point_lio_unilidar"> point_lio_unilidar </a></td>
         <td>  This repository adapts the state-of-the-art lidar inertial odometry <br>algorithm, Point-LIO, for use Unitree 4D Lidar L1. <br>It can complete SLAM using only its piontcloud and built-in IMU. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square&labelColor=green"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&labelColor=green"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
     </tr>
     </tbody>
 </table>
