@@ -19,7 +19,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 
 
 <table><tbody>
-<tr><th> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></th></tr>
+<tr> Open Source <img src="https://149753425.v2.pressablecdn.com/wp-content/uploads/2009/06/osi_symbol_100X100_0.png" width=25 height=25 style="vertical-align:bottom;"></tr>
 <tr><td colspan="1" rowspan="4">
 
 <table class="table table-striped table-bordered table-vcenter"/>
