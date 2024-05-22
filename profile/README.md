@@ -1,6 +1,4 @@
-# [Unitree Robotics](https://www.unitree.com)
-
-<img src="https://oss-global-cdn.unitree.com/static/43970428169e40dc9176daadbbbb0a39_510x128.png" align="center">
+<img src="https://oss-global-cdn.unitree.com/static/43970428169e40dc9176daadbbbb0a39_510x128.png" width="255" height="64" align="center">
 
 Unitree Robotics is focusing on the R&D, production, and sales of consumer and industry-class high-performance general-purpose legged and humanoid robots, six-axis manipulators, and so on. We attaches great importance to independent research and development and technological innovation, fully self-researching key core robot components such as motors, reducers, controllers, LIDAR and high-performance perception and motion control algorithms, integrating the entire robotics industry chain.
 
@@ -40,7 +38,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS1/ROS2</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS simulation package. It has urdf files of all Unitree series robots, <br>contains information such as  mass, inertia, moment, limit and so on. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS simulation package. It has urdf files of all Unitree series robots, <br>contains information such as  mass, inertia, moment, limit and so on. <br> Newly support G1.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
     </tr>
