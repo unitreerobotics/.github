@@ -55,7 +55,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_mujoco?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> RL Example </a></td>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> unitree_rl_gym </a></td>
         <td>  An Issac simulation example for reinforcement learning, supports Go2 and H1. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
