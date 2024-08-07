@@ -61,6 +61,14 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
     </tr>
     <tr>
+        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+            <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
+        </td>
+        <td><a href="https://github.com/unitreerobotics/avp_teleoperate" target="_blank"> avp_teleoperate </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
+    </tr>
+    <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
