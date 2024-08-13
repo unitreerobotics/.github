@@ -61,12 +61,17 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/avp_teleoperate" target="_blank"> avp_teleoperate </a> <br> Use apple vision pro to teleoperate H1 hands. </td>
+        <td><a href="https://github.com/unitreerobotics/avp_teleoperate" target="_blank"> avp_teleoperate </a> <br> Use Apple Vision Pro to teleoperate Unitree H1_2. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/avp_teleoperate?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/avp_teleoperate?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/kinect_teleoperate" target="_blank"> kinect_teleoperate</a> <br> Use Azure Kinect DK camera to teleoperate Unitree H1. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
