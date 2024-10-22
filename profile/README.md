@@ -74,9 +74,9 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_il_lerobot" target="_blank"> unitree_il_lerobot</a> <br>  Use G1's dual-arm dexterous hands for data collect, train and test,<br>with modified LeRobot, an open-source training framework. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_il_lerobot?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_il_lerobot?style=flat-square"/></td>
+        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br>  Use G1's dual-arm dexterous hands for data collect, train and test,<br>with modified LeRobot, an open-source training framework. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
