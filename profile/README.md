@@ -64,7 +64,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/avp_teleoperate" target="_blank"> avp_teleoperate </a> <br> Use Apple Vision Pro to teleoperate Unitree H1_2. </td>
+        <td><a href="https://github.com/unitreerobotics/avp_teleoperate" target="_blank"> avp_teleoperate </a> <br> Use Apple Vision Pro to teleoperate Unitree G1, H1_2. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/avp_teleoperate?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/avp_teleoperate?style=flat-square"/></td>
     </tr>
@@ -74,7 +74,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br>  Use G1's dual-arm dexterous hands for data collect, train and test,<br>with modified LeRobot, an open-source training framework. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br>  Use G1 dual-arm dexterous hands for data collect, train and test,<br>with modified LeRobot, an open-source training framework. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
     </tr>
