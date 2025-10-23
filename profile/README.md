@@ -121,6 +121,12 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
     </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unifolm-world-model-action"> unifolm-world-model-action </a></td>
+        <td>  UnifoLM-WMA-0 is Unitree‘s open-source world-model–action architecture spanning multiple types of robotic embodiments, designed specifically for general-purpose robot learning. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
+    </tr>
     </tbody>
 </table>
 
