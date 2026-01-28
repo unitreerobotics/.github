@@ -69,7 +69,6 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
     </tr>
     <tr>
-    <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_mjlab" target="_blank"> unitree_rl_mjlab</a> <br> Reinforcement learning implementation for Unitree robots, based on Mujoco. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
