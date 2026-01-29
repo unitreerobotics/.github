@@ -56,7 +56,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     </tr>
     <tr>
         <!-- <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> unitree_rl_gym </a></td> -->
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> unitree_rl </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_gym" target="_blank"> unitree_rl_gym</a> <br> An Issac simulation example for reinforcement learning, supports Go2, H1, G1. </td>
@@ -67,6 +67,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><a href="https://github.com/unitreerobotics/unitree_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Unitree robots, based on IsaacLab. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/unitree_rl_mjlab" target="_blank"> unitree_rl_mjlab</a> <br> Reinforcement learning implementation for Unitree robots, based on Mujoco. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
