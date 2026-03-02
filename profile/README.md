@@ -111,7 +111,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"
                target="_blank"
                rel="noopener noreferrer">
-                unitree_ros
+                URDF
             </a>
         </td>
         <td>
@@ -164,7 +164,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         </td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> unitree_model </a></td>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> USD </a></td>
         <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
