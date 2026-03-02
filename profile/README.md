@@ -107,33 +107,51 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> unitree_model </a> (USD)</td>
-        <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
-    </tr>
-    <tr>
         <td align="center">
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"
                target="_blank"
                rel="noopener noreferrer">
                 unitree_ros
-            </a> (URDF)
+            </a>
         </td>
         <td>
-            URDF models for robots:
-            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description"
-               target="_blank"
-               rel="noopener noreferrer">G1</a>,
-            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_description"
-               target="_blank"
-               rel="noopener noreferrer">R1</a>,
+            URDF for robots:
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_description"
                target="_blank"
                rel="noopener noreferrer">H2</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a2_description"
+               target="_blank"
+               rel="noopener noreferrer">A2</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_description"
+               target="_blank"
+               rel="noopener noreferrer">R1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/G1_description"
+               target="_blank"
+               rel="noopener noreferrer">G1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/b2_description"
+               target="_blank"
+               rel="noopener noreferrer">B2</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description"
                target="_blank"
                rel="noopener noreferrer">H1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/go2_description"
+               target="_blank"
+               rel="noopener noreferrer">Go2</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/b1_description"
+               target="_blank"
+               rel="noopener noreferrer">B1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/go1_description"
+               target="_blank"
+               rel="noopener noreferrer">Go1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/a1_description"
+               target="_blank"
+               rel="noopener noreferrer">A1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengo_description"
+               target="_blank"
+               rel="noopener noreferrer">AlienGo</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/laikago_description"
+               target="_blank"
+               rel="noopener noreferrer">Laikago</a>,
             etc.
         </td>
         <td>
@@ -144,6 +162,12 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <img alt="GitHub forks"
                  src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square" />
         </td>
+    </tr>
+    <tr>
+        <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> unitree_model </a></td>
+        <td>  Robot 3D models for different environments. Related xacro and urdf files <br> could be found <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots"> here </a>. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
