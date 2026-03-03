@@ -29,14 +29,15 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unifolm-world-model-action"> unifolm-world-model-action </a></td>
-        <td>  UnifoLM-WMA-0 is Unitree‘s open-source world-model–action architecture spanning multiple types of robotic embodiments, designed specifically for general-purpose robot learning. </td>
+        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+            <a href="https://github.com/unitreerobotics" target="_blank"> AGI </a>
+        </td>
+        <td><a href="https://github.com/unitreerobotics/unifolm-world-model-action" target="_blank"> unifolm-world-model-action</a> <br> UnifoLM-WMA-0 is Unitree‘s open-source world-model–action architecture spanning multiple types of robotic embodiments, designed specifically for general-purpose robot learning. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
     </tr>
     <tr>
-        <td align="center" ><a href="https://github.com/unitreerobotics/unifolm-vla"> unifolm-vla </a></td>
-        <td>  UnifoLM-VLA-0 is a Vision–Language–Action (VLA) large model in the UnifoLM series, designed for general-purpose humanoid robot manipulation. </td>
+        <td><a href="https://github.com/unitreerobotics/unifolm-vla" target="_blank"> unifolm-vla</a> <br> UnifoLM-VLA-0 is a Vision–Language–Action (VLA) large model in the UnifoLM series, designed for general-purpose humanoid robot manipulation. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-vla?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-vla?style=flat-square"/></td>
     </tr>
