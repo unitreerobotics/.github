@@ -78,19 +78,19 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br> An end-to-end embodied AI framework tailored for Unitree robots(G1, H1, etc.), seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
+        <td><a href="https://github.com/unitreerobotics/unitree_lerobot" target="_blank"> unitree_lerobot</a> <br> An end-to-end embodied AI framework tailored for Unitree robots (G1, H1, etc.), seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> A high-fidelity simulation platform based on Isaac Lab supports Unitree G1 and H1_2 and employs the same DDS communication interface as the physical robots.</td>
+        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> A high-fidelity simulation platform based on Isaac Lab supports Unitree robots (G1, H1-2, etc.) and employs the same DDS communication interface as the physical robots.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/teleimager" target="_blank"> teleimager </a> <br> An image server that captures video streams from multiple cameras (UVC, OpenCV, and RealSense) and publishes them over the network using ZeroMQ or WebRTC. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/teleimager?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/teleimager?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
