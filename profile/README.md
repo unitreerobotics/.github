@@ -14,6 +14,9 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
 <a href="https://github.com/unitreerobotics?tab=repositories">
 <img src="https://badges.strrl.dev/repos/unitreerobotics?style=flat-square&logo=github">
 </a>
+<a href="https://github.com/unitreerobotics?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/unitreerobotics?style=flat-square&logo=github&label=TotalStars">
+</a>
 
 
 <table><tbody>
@@ -70,30 +73,30 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Use Apple Vision Pro to teleoperate Unitree G1, H1_2. </td>
+        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree G1, H1, H1_2 and more via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/kinect_teleoperate" target="_blank"> kinect_teleoperate</a> <br> Use Azure Kinect DK camera to teleoperate Unitree H1. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br>  Use G1 dual-arm dexterous hands for data collect, train and test,<br>with modified LeRobot, an open-source training framework. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_IL_lerobot" target="_blank"> unitree_IL_lerobot</a> <br> An end-to-end embodied AI framework tailored for Unitree robots(G1, H1, etc.), seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_IL_lerobot?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> Built on Isaac Lab to simulate Unitree robots in various tasks, facilitating data collection, playback, generation, and model validation. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> A high-fidelity simulation platform based on Isaac Lab supports Unitree G1 and H1_2 and employs the same DDS communication interface as the physical robots.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/teleimager" target="_blank"> teleimager </a> <br> An image server that captures video streams from multiple cameras (UVC, OpenCV, and RealSense) and publishes them over the network using ZeroMQ or WebRTC. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/kinect_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1 robots in real environments. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
     </tr>
@@ -189,12 +192,12 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS1/ROS2</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS simulation package. It has urdf files of all Unitree series robots, <br>contains information such as  mass, inertia, moment, limit and so on. <br> Newly support G1.</td>
+        <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS1 simulation package. It has urdf files of all Unitree series robots. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_ros2" target="_blank"> unitree_ros2</a> <br> Develop Go2 and B2 robots in the ros2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_ros2" target="_blank"> unitree_ros2</a> <br> Develop Go2 and B2 robots in the ROS2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square"/></td>
     </tr>
