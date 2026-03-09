@@ -120,6 +120,9 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         </td>
         <td>
             URDF for robots:
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_d_description"
+               target="_blank"
+               rel="noopener noreferrer">G1-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_description"
                target="_blank"
                rel="noopener noreferrer">H2</a>,
