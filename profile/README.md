@@ -97,8 +97,8 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics" target="_blank"> UniStore </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree-app-templates" target="_blank"> unitree-app-templates</a> <br> This repository provides an out-of-the-box development environment to help developers quickly get started with building applications for Unitree robots. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree-app-templates?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <!-- <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
