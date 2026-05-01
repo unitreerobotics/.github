@@ -179,6 +179,9 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_model"> USD </a></td>
         <td>
             USD for robots:
+            <a href="https://github.com/unitreerobotics/unitree_model/tree/main/H2"
+               target="_blank"
+               rel="noopener noreferrer">H2</a>,
             <a href="https://github.com/unitreerobotics/unitree_model/tree/main/G1"
                target="_blank"
                rel="noopener noreferrer">G1</a>,
