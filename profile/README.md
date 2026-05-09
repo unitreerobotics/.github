@@ -36,13 +36,13 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics" target="_blank"> AGI </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unifolm-world-model-action" target="_blank"> unifolm-world-model-action</a> <br> UnifoLM-WMA-0 is Unitree‘s open-source world-model–action architecture spanning multiple types of robotic embodiments, designed specifically for general-purpose robot learning. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-world-model-action?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-world-model-action?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unifolm-vla" target="_blank"> unifolm-vla</a> <br> UnifoLM-VLA-0 is a Vision–Language–Action (VLA) large model in the UnifoLM series, designed for general-purpose humanoid robot manipulation. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-vla?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-vla?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-vla?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-vla?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <!-- <td align="center" ><a href="https://github.com/unitreerobotics/unitree_rl_gym"> unitree_rl_gym </a></td> -->
@@ -50,47 +50,47 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics" target="_blank"> Locomotion </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_gym" target="_blank"> unitree_rl_gym</a> <br> An Issac simulation example for reinforcement learning, supports Go2, H1, G1. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_gym?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Unitree robots, based on IsaacLab. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_rl_mjlab" target="_blank"> unitree_rl_mjlab</a> <br> Reinforcement learning implementation for Unitree robots, based on Mujoco. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_mjlab?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_mjlab?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_mjlab?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_mujoco" target="_blank"> unitree_mujoco </a> <br> Use Mujoco as a simulator and has sim-to-real implementations, integrate with <br>
         terrain generator. Support C++/Python interface. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_mujoco?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_mujoco?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_mujoco?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
         <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree robots(<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>) via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_lerobot" target="_blank"> unitree_lerobot</a> <br> For Unitree robots (<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>), this framework provides an end-to-end embodied AI solution, seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_lerobot?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_lerobot?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> Supporting Unitree robots (<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>), this high-fidelity simulation platform based on Isaac Lab employs the same DDS communication interface as the physical robots.</td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/teleimager" target="_blank"> teleimager </a> <br> An image server that captures video streams from multiple cameras (UVC, OpenCV, and RealSense) and publishes them over the network using ZeroMQ or WebRTC. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/teleimager?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/teleimager?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/teleimager?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/teleimager?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
@@ -102,31 +102,31 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     </tr>
     <!-- <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
     </tr> -->
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td align="center">
@@ -168,11 +168,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         </td>
         <td>
             <img alt="GitHub stars"
-                 src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square" />
+                 src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square&cacheSeconds=86400" />
         </td>
         <td>
             <img alt="GitHub forks"
-                 src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square" />
+                 src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square&cacheSeconds=86400" />
         </td>
     </tr>
     <tr>
@@ -196,33 +196,33 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
                rel="noopener noreferrer">Go2</a>,
             etc.
         </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_model?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_model?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://www.ros.org/" target="_blank"> ROS1/ROS2</a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_ros" target="_blank"> unitree_ros </a> <br> ROS1 simulation package. It has urdf files of all Unitree series robots. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_ros2" target="_blank"> unitree_ros2</a> <br> Develop Go2 and B2 robots in the ROS2 environment. <br>The interface types provided are consistent with unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_ros2?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_ros2?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/unitree_guide"> unitree_guide </a></td>
         <td>  An instance control algorithm by book <br>"Quadruped Robot Control Algorithm--Modeling, Control and Practice" <br>published by Unitree. It demonstrates the robot joint motor control <br>method, simple foot movements, and force control algorithm. <br>Both simulation and real robot development environments supports. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_guide?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_guide?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
         <td align="center" ><a href="https://github.com/unitreerobotics/point_lio_unilidar"> point_lio_unilidar </a></td>
         <td>  This repository adapts the state-of-the-art lidar inertial odometry <br>algorithm, Point-LIO, for use Unitree 4D Lidar L1. <br>It can complete SLAM using only its piontcloud and built-in IMU. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square"/></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     </tbody>
 </table>
