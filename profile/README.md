@@ -73,17 +73,17 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree G1, H1, H1_2 and more via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
+        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree robots(<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>) via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_lerobot" target="_blank"> unitree_lerobot</a> <br> An end-to-end embodied AI framework tailored for Unitree robots (G1, H1, etc.), seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_lerobot" target="_blank"> unitree_lerobot</a> <br> For Unitree robots (<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>), this framework provides an end-to-end embodied AI solution, seamlessly integrating standardized data conversion, LeRobot policy training and inference, and closed-loop real-world deployment. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_lerobot?style=flat-square"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> A high-fidelity simulation platform based on Isaac Lab supports Unitree robots (G1, H1-2, etc.) and employs the same DDS communication interface as the physical robots.</td>
+        <td><a href="https://github.com/unitreerobotics/unitree_sim_isaaclab" target="_blank"> unitree_sim_isaaclab </a> <br> Supporting Unitree robots (<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>), this high-fidelity simulation platform based on Isaac Lab employs the same DDS communication interface as the physical robots.</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square"/></td>
     </tr>
