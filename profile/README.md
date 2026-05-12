@@ -54,7 +54,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_gym?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Unitree robots, based on IsaacLab. </td>
+        <td><a href="https://github.com/unitreerobotics/unitree_rl_lab" target="_blank"> unitree_rl_lab</a> <br> Reinforcement learning implementation for Unitree robots, based on IsaacLab. Supports Tasks:<br>Velocity: (<a href="https://github.com/unitreerobotics/unitree_rl_lab/blob/main/source/unitree_rl_lab/unitree_rl_lab/tasks/locomotion/robots/go2/velocity_env_cfg.py" target="_blank">Go2</a>, <a href="https://github.com/unitreerobotics/unitree_rl_lab/blob/main/source/unitree_rl_lab/unitree_rl_lab/tasks/locomotion/robots/h1/velocity_env_cfg.py" target="_blank">H1</a>, <a href="https://github.com/unitreerobotics/unitree_rl_lab/blob/main/source/unitree_rl_lab/unitree_rl_lab/tasks/locomotion/robots/g1/29dof/velocity_env_cfg.py" target="_blank">G1-29dof</a>) Mimic: (<a href="https://github.com/unitreerobotics/unitree_rl_lab/tree/main/source/unitree_rl_lab/unitree_rl_lab/tasks/mimic/robots/g1_29dof" target="_blank">G1-29dof</a>)</td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_rl_lab?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_rl_lab?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
