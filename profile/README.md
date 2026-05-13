@@ -73,7 +73,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Manipulation</a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree robots(<a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>) via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
+        <td><a href="https://github.com/unitreerobotics/xr_teleoperate" target="_blank"> xr_teleoperate </a> <br> Teleoperate Unitree robots(<a href="https://www.unitree.com/h2" target="_blank" rel="noopener noreferrer">H2</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1</a>, <a href="https://www.unitree.com/h1" target="_blank" rel="noopener noreferrer">H1_2</a>, <a href="https://www.unitree.com/g1" target="_blank" rel="noopener noreferrer">G1</a>) via XR devices (Apple Vision Pro, PICO, Quest) with integrated data recording. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/xr_teleoperate?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/xr_teleoperate?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
