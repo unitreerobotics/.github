@@ -100,16 +100,6 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
-    <!-- <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_sdk2_python" target="_blank"> unitree_sdk2_python</a> <br> Python interface for unitree_sdk2. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
-    </tr> -->
     <tr>
         <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
@@ -223,6 +213,14 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td>  This repository adapts the state-of-the-art lidar inertial odometry <br>algorithm, Point-LIO, for use Unitree 4D Lidar L1. <br>It can complete SLAM using only its piontcloud and built-in IMU. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+            <a href="https://github.com/unitreerobotics" target="_blank"> DIY </a>
+        </td>
+        <td><a href="https://github.com/unitreerobotics/Qmini" target="_blank"> Unitree Qmini</a> <br> A fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     </tbody>
 </table>
