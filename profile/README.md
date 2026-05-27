@@ -215,12 +215,18 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="1" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> DIY </a>
         </td>
-        <td><a href="https://github.com/unitreerobotics/Qmini" target="_blank"> Unitree Qmini</a> <br> A fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. </td>
+        <td><a href="https://github.com/unitreerobotics/Qmini" target="_blank"> Qmini</a> <br> A fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/UniArmL1" target="_blank"> UniArmL1 </a> <br> UniArmL1 is a lightweight, open-source 6-DOF robotic arm and teleoperation framework that supports three control modes and standardized data acquisition. The acquired data can be seamlessly integrated with <a href="https://github.com/unitreerobotics/unitree_lerobot" target="_blank" rel="noopener noreferrer">unitree_lerobot</a> for imitation learning training and deployment.
+        </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/UniArmL1?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/UniArmL1?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     </tbody>
 </table>
