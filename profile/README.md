@@ -135,7 +135,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_description" target="_blank" rel="noopener noreferrer">H2</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_plus" target="_blank" rel="noopener noreferrer">H2 Plus</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_d_description" target="_blank" rel="noopener noreferrer">G1-D</a>,
-            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/G1_description" target="_blank" rel="noopener noreferrer">G1</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description" target="_blank" rel="noopener noreferrer">G1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_with_brainco_hand" target="_blank" rel="noopener noreferrer">G1 with Brainco Hand</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_2_description" target="_blank" rel="noopener noreferrer">H1-2</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h1_description" target="_blank" rel="noopener noreferrer">H1</a>
