@@ -168,6 +168,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/dexterous_hand_description/dex3_1" target="_blank" rel="noopener noreferrer">Dex3-1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/dexterous_hand_description/dex5_1" target="_blank" rel="noopener noreferrer">Dex5-1</a>
             <br>Robotic Arms:
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_arm_description" target="_blank" rel="noopener noreferrer">R1 Robotic Arm</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/z1_description" target="_blank" rel="noopener noreferrer">Z1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengoZ1_description" target="_blank" rel="noopener noreferrer">AlienGo with Z1</a>
         </td>
