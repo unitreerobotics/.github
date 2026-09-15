@@ -98,7 +98,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sim_isaaclab?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/unitreerobotics/teleimager" target="_blank"> teleimager </a> <br> An image server that captures video streams from multiple cameras (UVC, OpenCV, and RealSense) and publishes them over the network using ZeroMQ or WebRTC. </td>
+        <td><a href="https://github.com/unitreerobotics/teleimager" target="_blank"> teleimager </a> <br> An image server that captures video streams from multiple cameras (UVC, V4L2, Gstreamer and RealSense) and publishes them over the network using ZeroMQ or WebRTC. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/teleimager?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/teleimager?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
