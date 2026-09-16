@@ -140,8 +140,10 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             Humanoid Robots:
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_description" target="_blank" rel="noopener noreferrer">R1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_air_description" target="_blank" rel="noopener noreferrer">R1 Air</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1d_description" target="_blank" rel="noopener noreferrer">R1-A7-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_description" target="_blank" rel="noopener noreferrer">H2</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2_plus" target="_blank" rel="noopener noreferrer">H2 Plus</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/h2d_description" target="_blank" rel="noopener noreferrer">H2-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_d_description" target="_blank" rel="noopener noreferrer">G1-D</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_description" target="_blank" rel="noopener noreferrer">G1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/g1_with_brainco_hand" target="_blank" rel="noopener noreferrer">G1 with Brainco Hand</a>,
@@ -167,8 +169,8 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/dexterous_hand_description/dex5_1" target="_blank" rel="noopener noreferrer">Dex5-1</a>
             <br>Robotic Arms:
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_arm_description" target="_blank" rel="noopener noreferrer">R1-7a</a>,
-          <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_a5_description" target="_blank" rel="noopener noreferrer">R1 A5</a>,
-            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_a7_description" target="_blank" rel="noopener noreferrer">R1 A7</a>,
+          <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_a5_description" target="_blank" rel="noopener noreferrer">R1-A5</a>,
+            <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/r1_a7_description" target="_blank" rel="noopener noreferrer">R1-A7</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/z1_description" target="_blank" rel="noopener noreferrer">Z1</a>,
             <a href="https://github.com/unitreerobotics/unitree_ros/tree/master/robots/aliengoZ1_description" target="_blank" rel="noopener noreferrer">AlienGo with Z1</a>
         </td>
