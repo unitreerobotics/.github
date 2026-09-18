@@ -32,9 +32,14 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     <tbody>
     <tr><th> Title </th> <th>Description</th> <th>Stars</th> <th>Forks</th></tr>
     <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> AGI </a>
         </td>
+        <td><a href="https://github.com/unitreerobotics/unifolm-wla" target="_blank"> unifolm-wla</a> <br> UnifoLM-WLA-1.0 is Unitree Robotics' comprehensively upgraded,  next-generation general-purpose humanoid robot foundation model with 6B  parameters. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-wla?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-wla?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/unitreerobotics/unifolm-world-model-action" target="_blank"> unifolm-world-model-action</a> <br> UnifoLM-WMA-0 is Unitree‘s open-source world-model–action architecture spanning multiple types of robotic embodiments, designed specifically for general-purpose robot learning. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unifolm-world-model-action?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unifolm-world-model-action?style=flat-square&cacheSeconds=86400"/></td>
@@ -251,5 +256,4 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
     </tr>
     </tbody>
 </table>
-
 
