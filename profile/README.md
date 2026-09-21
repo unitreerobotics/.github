@@ -116,7 +116,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree-app-templates?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> Robot SDK</a>
         </td>
         <td><a href="https://github.com/unitreerobotics/unitree_sdk2" target="_blank"> unitree_sdk2</a> <br> An SDK package used to develop Go2, B2, H1, G1, H2, R1, A2 robots in real environments. </td>
