@@ -129,6 +129,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_python?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/unitreerobotics/unitree_sdk2_rs" target="_blank"> unitree_sdk2_rs</a> <br> Rust interface for unitree_sdk2 with C++ SDK2 bindings. </td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_sdk2_rs?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/unitreerobotics/unitree_legged_sdk" target="_blank"> unitree_legged_sdk </a> <br> An SDK package used to develop Aliengo, A1, Go1 and B1 robots in real environments. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/unitree_legged_sdk?style=flat-square&cacheSeconds=86400"/></td>
