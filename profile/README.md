@@ -259,9 +259,13 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="2" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> DIY </a>
         </td>
+        <td><a href="https://github.com/unitreerobotics/Unitree-Motor-Assistant" target="_blank"> Unitree-Motor-Assistant</a><br>Official open-source configuration and debugging tool for Unitree J288/S288 and IM6014 joint motors, featuring a Qt-based GUI and serial port communication.</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/Unitree-Motor-Assistant?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/Unitree-Motor-Assistant?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
         <td><a href="https://github.com/unitreerobotics/Qmini" target="_blank"> Qmini</a> <br> A fully open-sourced, low-cost bipedal robot that can be entirely 3D printed by individual users. </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/Qmini?style=flat-square&cacheSeconds=86400"/></td>
