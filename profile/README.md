@@ -259,7 +259,7 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/point_lio_unilidar?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     <tr>
-        <td colspan="1" rowspan="3" align="center" class="ai-notebooks-table-points ai-orange-link">
+        <td colspan="1" rowspan="4" align="center" class="ai-notebooks-table-points ai-orange-link">
             <a href="https://github.com/unitreerobotics" target="_blank"> DIY </a>
         </td>
         <td><a href="https://github.com/unitreerobotics/Unitree-Motor-Assistant" target="_blank"> Unitree-Motor-Assistant</a><br>Official open-source configuration and debugging tool for Unitree J288/S288 and IM6014 joint motors, featuring a Qt-based GUI and serial port communication.</td>
@@ -275,6 +275,11 @@ Unitree Robotics is focusing on the R&D, production, and sales of consumer and i
         </td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/UniArmL1?style=flat-square&cacheSeconds=86400"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/UniArmL1?style=flat-square&cacheSeconds=86400"/></td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/unitreerobotics/R1-7A" target="_blank"> R1-7A </a> <br> A 7-DOF robotic arm teleoperation framework supporting single-arm and dual-arm control, multi-camera data recording, and trajectory replay.</td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/unitreerobotics/R1-7A?style=flat-square&cacheSeconds=86400"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/unitreerobotics/R1-7A?style=flat-square&cacheSeconds=86400"/></td>
     </tr>
     </tbody>
 </table>
